@@ -1,0 +1,20 @@
+{
+    "homepage": "https://hovancik.net/stretchly",
+    "version": "0.21.0",
+    "license": "MIT",
+    "url": "https://github.com/hovancik/stretchly/releases/download/v0.21.0/stretchly-0.21.0-win.7z",
+    "hash": "cd4b13d6ae72759b16056080db9b3008ab5b5ae354bcead5f853e81befb293e5",
+    "bin": "stretchly.exe",
+    "shortcuts": [
+        [
+            "stretchly.exe",
+            "stretchly"
+        ]
+    "autoupdate": {
+		"url": "https://github.com/hovancik/stretchly/releases/download/v$version/stretchly-$version-win.7z",
+	}
+	
+    "checkver": {
+        "github": "https://github.com/hovancik/stretchly"
+    }
+}
