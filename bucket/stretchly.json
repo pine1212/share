@@ -7,9 +7,10 @@
     "bin": "stretchly.exe",
     "shortcuts": [
         [
-            "stretchly.exe",
-            "stretchly"
+            "notepad++.exe",
+            "Notepad++"
         ]
+    ],
     "autoupdate": {
 		"url": "https://github.com/hovancik/stretchly/releases/download/v$version/stretchly-$version-win.7z",
 	}
