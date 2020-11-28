@@ -1,8 +1,8 @@
 {
     "homepage": "https://tablacus.github.io/explorer.html",
-    "version": "20.11.26",
+    "version": "20.11.27",
     "license": "MIT",
-    "url": "https://github.com/tablacus/TablacusExplorer/releases/download/20.11.26/te201126.zip",
+    "url": "https://github.com/tablacus/TablacusExplorer/releases/download/20.11.27/te201127.zip",
     "architecture": {
         "64bit": {
             "bin": [["TE64.exe", "te"], ["TE64.exe", "tablacus"]],
